@@ -1,0 +1,14 @@
+C:\Users\Gleppa\source\repos\OOP\bin\Debug\OOP.exe.config
+C:\Users\Gleppa\source\repos\OOP\bin\Debug\OOP.exe
+C:\Users\Gleppa\source\repos\OOP\bin\Debug\OOP.pdb
+C:\Users\Gleppa\source\repos\OOP\obj\Debug\OOP.Form1.resources
+C:\Users\Gleppa\source\repos\OOP\obj\Debug\OOP.Properties.Resources.resources
+C:\Users\Gleppa\source\repos\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+C:\Users\Gleppa\source\repos\OOP\obj\Debug\OOP.exe
+C:\Users\Gleppa\source\repos\OOP\obj\Debug\OOP.pdb
+C:\Users\Gleppa\source\repos\OOP\obj\Debug\OOP.AddVisitorForm.resources
+C:\Users\Gleppa\source\repos\OOP\obj\Debug\OOP.LoginPage.resources
+C:\Users\Gleppa\source\repos\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+C:\Users\Gleppa\source\repos\OOP\obj\Debug\OOP.RoomInfoForm.resources
+C:\Users\Gleppa\source\repos\OOP\obj\Debug\OOP.ReservedForm.resources
+C:\Users\Gleppa\source\repos\OOP\obj\Debug\OOP.DeleteVisitorsForm.resources
